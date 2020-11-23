@@ -1,0 +1,11 @@
+id: 5.8
+label: SQLPad 5.8
+releaseNotes: First iteration post migration for branch v2-app
+available: true
+trustLevel: stable
+ports:
+  - port: 3000
+    name: SqlPad
+    rewriteUrl: false
+    basePath: SAAGIE_BASE_PATH
+volumes: ["/var/lib/sqlpad"]

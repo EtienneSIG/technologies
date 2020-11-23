@@ -1,0 +1,10 @@
+version: v1
+type: APP
+id: sqlPad-5.8
+label: sqlPad-5.8
+baseline: IDE for SQL
+description: A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Cassandra, Snowflake, Google BigQuery, SQLite, and many more via ODBC.
+available: true
+icon: SQLPad
+backgroundColor: "#3374BA"
+customFlags: []
